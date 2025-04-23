@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahmoudbebo18
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Angular & React
-- 💞️ I’m looking to collaborate on new angular & react projects
+- 💞️ I’m looking to collaborate on new  react, Next and ODOO projects
 - 📫 How to reach me (+201282414570)
 
 <!---
